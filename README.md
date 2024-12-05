@@ -1,3 +1,3 @@
-# Code for paper "Intrinsic Dynamics-Driven Representation Learning for the Scene Generalization in Visual Reinforcement Learning".
-#DSR
+# Code for paper "Intrinsic Dynamics-Driven Generalizable Scene Representations for Vision-Oriented Decision-Making Applications".
+#IDR
 CARLA driving, Visual reinforcement learning, Generalization representation, Dynamics-driven representation learning, Sequence modeling.
